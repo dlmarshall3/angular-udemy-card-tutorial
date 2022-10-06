@@ -17,7 +17,7 @@ export class AppComponent {
       title: 'Aliens!!!',
       imageUrl: 'assets/aliens.jpg',
       username: '@tru3_b3li3v3r',
-      content: 'Cannot believe aliens are eating in the public like this. I have been ridiculed for years, and now this?!'
+      content: 'Cannot believe aliens are eating in the public like this. I have been ridiculed for my beliefs for years, and now this?!'
     },
     {
       title: 'Eye for detail.',
